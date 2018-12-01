@@ -4,7 +4,7 @@ application that facilitates listing of banners, products, cart, review/rating, 
 
 It uses a customized version of [spree](https://github.com/spree/spree), available [here](https://github.com/vinsol-spree-contrib/shopspree-sales-app).
 
-For demo configure the following backend api url, deployed at heroku http://shop-spree.herokuapp.com/api/ams/ 
+For demo configure the followings backend api url, deployed at heroku http://shop-spree.herokuapp.com/api/ams/ 
 
 ## Compatibility
 - minSdkVersion 17 (Android 4.2)
